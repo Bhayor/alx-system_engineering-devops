@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./* -empty -type f | ls -Rla
+find -empty | ls -lR
